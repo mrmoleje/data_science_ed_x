@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556961674047.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2944078339",
+    "id" : "9FF6773A",
+    "lastKnownWriteTime" : 1556968694,
+    "last_content_update" : 1556968694939,
+    "path" : "~/Documents/R_Projects/edX/vectors.r",
+    "project_path" : "vectors.r",
+    "properties" : {
+        "cursorPosition" : "221,22",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "206",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
